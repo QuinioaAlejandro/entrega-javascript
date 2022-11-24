@@ -1,0 +1,14 @@
+#ShopZapatillas {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+
+.cards{
+    overflow: hidden;
+    width: 25%;
+}
+
+.cards img{
+    width: 100%;
+}
