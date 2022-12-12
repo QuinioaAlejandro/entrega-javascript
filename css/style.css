@@ -12,3 +12,21 @@
 .cards img{
     width: 100%;
 }
+
+#carritoContent{
+    position: fixed;
+    top: 0;
+    right: 0;
+    background-color: white;    
+}
+
+.carritoProducto{
+    text-align: center;
+}
+.carritoProducto img {
+    width: 70%;
+}
+
+.carritoContainer{
+    height: 50vh;
+}

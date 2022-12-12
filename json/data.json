@@ -1,0 +1,12 @@
+[ 
+    {"precio": 57199, "marca": "nike",  "modelo": "Air Force 1", "genero": "hombre", "img": "./img/adidas.jpeg" },
+    {"precio": 20999, "marca": "le cost sportif",  "modelo": "r1000", "genero": "mujer", "img": "./img/le coq sportif 2.jpeg" },
+    {"precio": 28799, "marca": "Adidas",  "modelo": "multix", "genero": "hombre", "img": "./img/adidas.jpeg" },
+    {"precio": 35699, "marca": "puma",  "modelo": "rs-fast limiter", "genero": "mujer", "img": "./img/puma.jpeg" },
+    {"precio": 57199, "marca": "nike",  "modelo": "airmax 90", "genero": "hombre", "img": "./img/nike2.jpeg" },
+    {"precio": 21499, "marca": "Converse",  "modelo": "chuk taylor all star ox", "genero": "mujer", "img": "./img/converse.jpeg" },
+    {"precio": 30800, "marca": "Converse",  "modelo": "chuk taylor all star lift hi", "genero": "mujer", "img": "./img/converse2.jpeg" },
+    {"precio": 24199, "marca": "fila",  "modelo": "rush", "genero": "mujer", "img": "./img/fila.jpeg" },
+    {"precio": 57199, "marca": "nike",  "modelo": "airmax 97 se", "genero": "hombre", "img": "./img/nike air.jpeg" },
+    {"precio": 20000, "marca": "le cost sportif",  "modelo": "lcs r850", "genero": "mujer", "img": "./img/le coq sportif.jpeg" }
+]
